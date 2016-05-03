@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLittlePolaroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <item name="Longitude" type="id">경도</item>
+    <item name="Latitude" type="id">위도</item>
+
+</resources>

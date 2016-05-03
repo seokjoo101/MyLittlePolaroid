@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerArray1">
+        <item>없음</item>
+        <item>시간</item>
+        <item>장소</item>
+    </string-array>
+</resources>
