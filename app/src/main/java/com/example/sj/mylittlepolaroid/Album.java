@@ -34,6 +34,8 @@ import java.util.Random;
 //Git test
 public class Album extends Activity {
 
+    private int matsertoSeokjooBrachMerge;
+
     private int gitCommit_Album;
     private DbOpenHelper mDbOpenHelper;
     private SQLiteDatabase db;
