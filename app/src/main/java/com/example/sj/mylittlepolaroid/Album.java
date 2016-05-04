@@ -35,6 +35,8 @@ import java.util.Random;
 public class Album extends Activity {
     private int branch_create;
 
+    private int matsertoSeokjooBrachMerge;
+
     private int gitCommit_Album;
     private DbOpenHelper mDbOpenHelper;
     private SQLiteDatabase db;
