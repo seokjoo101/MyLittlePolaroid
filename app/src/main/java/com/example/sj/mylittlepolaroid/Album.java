@@ -33,6 +33,7 @@ import java.util.Random;
 
 //Git test
 public class Album extends Activity {
+    private int branch_create;
 
     private int gitCommit_Album;
     private DbOpenHelper mDbOpenHelper;
