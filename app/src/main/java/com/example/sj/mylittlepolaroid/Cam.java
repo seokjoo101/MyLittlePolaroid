@@ -36,6 +36,8 @@ import java.util.Locale;
 
 public class Cam extends Activity implements Callback {
 
+    private int gitCommit_Cam;
+
     Camera cam;
     SurfaceHolder hld;
     int temp;

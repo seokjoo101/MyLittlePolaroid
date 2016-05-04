@@ -30,8 +30,11 @@ import java.util.Random;
 /**
  * Created by SJ on 2015-11-27.
  */
+
+//Git test
 public class Album extends Activity {
 
+    private int gitCommit_Album;
     private DbOpenHelper mDbOpenHelper;
     private SQLiteDatabase db;
     private Cursor mCursor;
